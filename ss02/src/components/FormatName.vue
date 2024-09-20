@@ -8,8 +8,8 @@
 import { ref } from "vue";
 
 const user = {
-  firstName: "Phạm Trung",
-  lastName: "Hiếu",
+  firstName: "Nguyễn Đình",
+  lastName: "Dương",
 };
 
 const formatName = (user) => {

@@ -23,11 +23,11 @@
 
 <script setup>
 const personalInfo = {
-  fullName: "Phạm Trung Hiếu",
+  fullName: "Nguyễn Đình Dương",
   gender: "Nam",
-  dob: "25/07/2004",
-  email: "ptrunghieu2507@gmail.com",
-  address: "Thanh Xuân, Hà Nội",
+  dob: "13/01/2005",
+  email: "dinhduong@gmail.com",
+  address: "Mai Dịch, Hà Nội",
 };
 </script>
 
