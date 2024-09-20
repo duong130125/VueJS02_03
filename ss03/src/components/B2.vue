@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 :id="heading" :class="heading">Heading</h1>
+    <h1 :elementid="heading" :class="heading">Heading</h1>
   </div>
 </template>
 
